@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Paquerette</string>
+    <string name="take_picture">Prendre une photo</string>
 </resources>

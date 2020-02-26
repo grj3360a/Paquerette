@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "944297161344",
+    "firebase_url": "https://paquerette-ba2a2.firebaseio.com",
+    "project_id": "paquerette-ba2a2",
+    "storage_bucket": "paquerette-ba2a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944297161344:android:c2287a853ee9dc6cff2c65",
+        "android_client_info": {
+          "package_name": "fr.iut.paquerette"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944297161344-e5vphsl9vkqii7ut7o00758uda9pv1gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmFfXcb2kOh8L5n6P_SoqQmUBsdtJoR90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944297161344-e5vphsl9vkqii7ut7o00758uda9pv1gb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
